@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-scopeo-dev-110501-authRole",
+      "UnauthRoleArn": "arn:aws:iam::923157297013:role/amplify-scopeo-dev-110501-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::923157297013:role/amplify-scopeo-dev-110501-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-scopeo-dev-110501-deployment",
+      "UnauthRoleName": "amplify-scopeo-dev-110501-unauthRole",
+      "StackName": "amplify-scopeo-dev-110501",
+      "StackId": "arn:aws:cloudformation:us-east-1:923157297013:stack/amplify-scopeo-dev-110501/7ab85a70-c9c0-11ee-966f-0a176afb4d2f",
+      "AmplifyAppId": "d2sdswob8orahe"
+    },
+    "categories": {
+      "auth": {
+        "scopeoc68ceacc": {}
+      }
+    }
+  }
+}
